@@ -11,3 +11,5 @@
   Hello World!
 </body>
 </html>
+
+<img src="img\wallpaper-100w.jpg" width="640" height="360" alt="Mountains" />
