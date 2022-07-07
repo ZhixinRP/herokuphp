@@ -1,4 +1,4 @@
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -6,7 +6,7 @@
   <meta name="description" content="test">
   <title>test</title>
 </head>
-<body> -->
+<body>
   Hello World!
-<!-- </body>
-</html> -->
+</body>
+</html>
